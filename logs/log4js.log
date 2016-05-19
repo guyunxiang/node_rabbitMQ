@@ -1,0 +1,14 @@
+[2016-05-03 18:02:16.585] [INFO] [default] - SOCKET SERVER START SUCCESSFUL! -- log4js
+[2016-05-03 18:02:16.833] [INFO] [default] - 192.168.5.77:54749，已连接服务
+[2016-05-03 18:02:27.091] [INFO] [default] - 192.168.5.77:54749的消息: init#11223344
+[2016-05-03 18:03:52.504] [INFO] [default] - SOCKET SERVER START SUCCESSFUL! -- log4js
+[2016-05-03 18:05:01.939] [INFO] [default] - 192.168.5.77:54756，已连接服务
+[2016-05-03 18:05:12.310] [INFO] [default] - 192.168.5.77:54756，消息: init#kkffjjijf
+[2016-05-03 18:07:27.206] [INFO] [default] - 192.168.5.77:54756，服务已断开!
+[2016-05-03 18:09:33.420] [INFO] [default] - SOCKET SERVER START SUCCESSFUL! -- log4js
+[2016-05-03 18:09:49.896] [INFO] [default] - 192.168.5.77:54763，已连接服务
+[2016-05-03 18:09:49.919] [INFO] [default] - 192.168.5.77:54763，消息: init#lk12313df4f5fdsdf
+[2016-05-03 18:09:56.689] [INFO] [default] - 192.168.5.77:54763，服务已断开!
+[2016-05-03 18:09:56.690] [INFO] [default] - quitQueueMessage START
+[2016-05-03 18:09:56.690] [INFO] [default] - 192.168.5.77:54763，服务已关闭
+[2016-05-03 18:09:56.729] [INFO] [default] - 取消订阅 lk12313df4f5fdsdf 消息队列,断开连接！

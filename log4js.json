@@ -1,0 +1,9 @@
+{
+  "appenders": [{
+    "type": "file",
+    "filename": "logs/log4js.log",
+    "maxLogSize": 2048,
+    "backups": 4,
+    "category": "normal"
+  }]
+}
